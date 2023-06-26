@@ -11,7 +11,7 @@ Powercord:
 I've got no idea mate, I looked at one video about Powercord and if you can understand all that you can probably figure out how to install it, it should install just like any other theme so good luck I guess
 
 Vencord:
-either paste the link to the raw file (https://raw.githubusercontent.com/Stelle-Valentine/Vencord-Theme/main/Stellesvision.theme.css) into your theme's menu, or copy the content of the Stellesvision.theme.css file into your quickcss 
+either paste the link to the raw file (https://raw.githubusercontent.com/Stelle-Valentine/Stellevision/main/Stellesvision.theme.css) into your theme's menu, or copy the content of the Stellesvision.theme.css file into your quickcss 
 
 # Plugin Changes (that I remember)
 Platform Indicators - Less intrusive icons
